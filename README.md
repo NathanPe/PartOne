@@ -56,17 +56,16 @@ runs requests, tests & debugs, creates automated tests, and mock.
   * [Joi](https://github.com/hapijs/joi#introduction)
   is an object schema description language and validator for JavaScript objects.
   
-    ```npm install joi --save```  
     
   * [Joigoose](https://github.com/yoitsro/joigoose#joigoose)
   allows to convert Joi objects model into Mongoose ones
-  
-    ```npm install joigoose --save```  
+   
     
   * [Faker](https://github.com/marak/Faker.js/#fakerjs---generate-massive-amounts-of-fake-data-in-the-browser-and-nodejs)
   generates massive amounts of fake data in Node.js
-  
-    ```npm install faker --save```
+    
+  To run the API, don't forget to install this dependecies before :
+    ```npm install```
 
 
 
